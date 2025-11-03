@@ -539,7 +539,7 @@ WantedBy=multi-user.target
 </head>
 <body>
     <div class="container">
-        <h1>⚡ HIDDEN SERVICE ONLINE ⚡</h1>
+        <h1> HIDDEN SERVICE ONLINE </h1>
         
         <div class="info">
             <p><strong>Welcome to the underground.</strong></p>
@@ -1302,6 +1302,7 @@ HiddenServicePort 80 127.0.0.1:80
 
     greets to all the hidden service operators out there keeping the
     dream alive ;-*
+
 
 
 
