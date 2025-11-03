@@ -1187,7 +1187,7 @@ HiddenServicePort 80 127.0.0.1:80
 
     FINAL WORDS
 
-    You now have everything you need to host your own .onion site. Whether
+    You now have everything you need to host your own .onion site. If
     you're setting up a simple page with Python or a full production
     service with XAMPP, the technology is in your hands.
 
@@ -1303,5 +1303,6 @@ HiddenServicePort 80 127.0.0.1:80
 
     greets to all the hidden service operators out there keeping the
     dream alive ;-*
+
 
 
