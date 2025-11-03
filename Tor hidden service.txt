@@ -7,6 +7,7 @@
                ██║   ██║   ██║██╔══██╗
                ██║   ╚██████╔╝██║  ██║
                ╚═╝    ╚═════╝ ╚═╝  ╚═╝
+                        THE ONION ROUTER
                                             INNOVATORS IN PRIVACY TEKNOLOGY
                                             EXPERTS IN DIGITAL FREEDOM
                                             GENERAL ALL-AROUND COOL D00DZ
@@ -46,7 +47,7 @@
      Tested: thoroughly
      Released publicly: affirmatively
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     It should first be said that Tor is both a network and a piece of
     software. The Tor network is a distributed system of volunteer-run
@@ -64,7 +65,7 @@
     SimpleHTTPServer (perfect for learning), and a production setup using
     XAMPP (for when you're ready to run something serious).
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     WHAT YOU'LL NEED:
 
@@ -91,7 +92,7 @@
     • Sites that need PHP scripting
     • Anything expecting real traffic
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     WINDOWS SETUP - BASIC EDITION
 
@@ -279,7 +280,7 @@ HiddenServicePort 80 127.0.0.1:8000
     │ • Lose that folder = lose your .onion address forever        │
     └───────────────────────────────────────────────────────────────┘
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     LINUX SETUP - BASIC EDITION
 
@@ -415,7 +416,7 @@ WantedBy=multi-user.target
     │ • Web server must be running for site to be accessible       │
     └───────────────────────────────────────────────────────────────┘
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     XAMPP PRODUCTION SETUP - THE REAL DEAL
 
@@ -598,7 +599,7 @@ HiddenServicePort 80 127.0.0.1:80
     Open Tor Browser, visit your .onion address. You should see your XAMPP
     site running.
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     LINUX - XAMPP INSTALLATION
 
@@ -679,7 +680,7 @@ HiddenServicePort 80 127.0.0.1:80
 
     Open Tor Browser, visit your .onion address. Done.
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     XAMPP SECURITY HARDENING
 
@@ -745,7 +746,7 @@ HiddenServicePort 80 127.0.0.1:80
     Only access phpMyAdmin from localhost, never expose it to your hidden
     service. If someone compromises your database, game over.
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     XAMPP + PHP EXAMPLE
 
@@ -787,7 +788,7 @@ HiddenServicePort 80 127.0.0.1:80
 
     If you see the current time and PHP version, you're golden.
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     SECURITY & OPSEC
 
@@ -925,7 +926,7 @@ HiddenServicePort 80 127.0.0.1:80
 
     Only the Tor daemon should be able to read these files.
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     TROUBLESHOOTING
 
@@ -1060,7 +1061,7 @@ HiddenServicePort 80 127.0.0.1:80
        Maintain the same directory structure in torrc.
        Your .onion address will stay the same.
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     FAQ
 
@@ -1154,7 +1155,7 @@ HiddenServicePort 80 127.0.0.1:80
        For most users: Tor alone is fine.
        Research thoroughly before mixing.
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     RESOURCES
 
@@ -1183,7 +1184,7 @@ HiddenServicePort 80 127.0.0.1:80
     • r/onions: https://www.reddit.com/r/onions/
     • r/TOR: https://www.reddit.com/r/TOR/
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     FINAL WORDS
 
@@ -1291,17 +1292,18 @@ HiddenServicePort 80 127.0.0.1:80
 
     Knowledge is meant to be shared.
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     Final thought, host responsibly, stay anonymous, and help others learn.
     GLHF
     <3 stax
     [pub.inbox@proton.me]
 
-    [STAX]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[STAX]
+    [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     greets to all the hidden service operators out there keeping the
     dream alive ;-*
+
 
 
 
