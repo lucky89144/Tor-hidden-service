@@ -26,7 +26,7 @@
     Hello?...
     Are we still live?...
 
-    Ah, there you are! Our faithful friend! Our fantastic follower! Look,
+    Ah, there you are! My faithful friend! My fantastic follower! Look,
     I know some of you have been wondering how to set up your own Tor
     hidden service. Maybe you've seen .onion sites and thought "how the
     hell do they do that?" or maybe you just want to learn something new.
@@ -1303,6 +1303,7 @@ HiddenServicePort 80 127.0.0.1:80
 
     greets to all the hidden service operators out there keeping the
     dream alive ;-*
+
 
 
 
