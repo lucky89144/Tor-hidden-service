@@ -17,7 +17,7 @@
 
 ## What's This?
 
-A no guide to running your own Tor hidden service. Covers everything from basic Python setup to production XAMPP deployments.
+A guide to running your own Tor hidden service. Covers everything from basic Python setup to production XAMPP deployments.
 
 **Includes:**
 - Windows & Linux setup instructions
